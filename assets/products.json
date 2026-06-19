@@ -1,0 +1,107 @@
+{
+  "banner": {
+    "title": "GIFT STORE",
+    "subtitle": "Up to 30% off selected devices",
+    "imageUrl": "assets/images/banner.png"
+  },
+  "products": [
+    {
+      "id": 1,
+      "name": "iPhone 15 Pro",
+      "tagline": "Titanium. So strong. So light. So Pro.",
+      "price": 999.0,
+      "category": "Phone",
+      "imageUrl": "assets/images/iphone15pro.png",
+      "description": "Forged in titanium and featuring the groundbreaking A17 Pro chip, a customizable Action button, and the most powerful iPhone camera system ever. A magical new way to interact with iPhone.",
+      "specs": {
+        "size": "6.1 inches",
+        "audio": "Spatial Audio",
+        "colors": "4 colors"
+      }
+    },
+    {
+      "id": 2,
+      "name": "MacBook Pro 14\"",
+      "tagline": "Pro to the core.",
+      "price": 1599.0,
+      "category": "Laptop",
+      "imageUrl": "assets/images/macbookpro14.jpg",
+      "description": "Supercharged by the M3 family of chips. Built for all the ways you work, play, and create. Up to 22 hours of battery life and a stunning Liquid Retina XDR display.",
+      "specs": {
+        "size": "14.2 inches",
+        "audio": "6 speakers",
+        "colors": "2 colors"
+      }
+    },
+    {
+      "id": 3,
+      "name": "iPad Air",
+      "tagline": "Light. Bright. Full of might.",
+      "price": 599.0,
+      "category": "Tablet",
+      "imageUrl": "assets/images/ipadair.jpg",
+      "description": "Serious performance in a thin and light design. Powered by the M-series chip and compatible with Apple Pencil and Magic Keyboard. The perfect everyday tablet.",
+      "specs": {
+        "size": "10.9 inches",
+        "audio": "Stereo",
+        "colors": "5 colors"
+      }
+    },
+    {
+      "id": 4,
+      "name": "HomePod",
+      "tagline": "Profound sound.",
+      "price": 299.0,
+      "category": "Audio",
+      "imageUrl": "assets/images/homepod.jpg",
+      "description": "Immersive, high-fidelity audio that fills the whole room. Featuring computational audio, room sensing, and seamless smart home control with Siri built in.",
+      "specs": {
+        "size": "6.6 inches",
+        "audio": "360-degree",
+        "colors": "2 colors"
+      }
+    },
+    {
+      "id": 5,
+      "name": "HomePod Mini",
+      "tagline": "Color pop.",
+      "price": 99.0,
+      "category": "Audio",
+      "imageUrl": "assets/images/homepodmini.jpg",
+      "description": "The HomePod Mini is jam-packed with innovation, delivering unexpectedly big sound for a speaker of its size. At just 3.3 inches tall, it takes up almost no space but fills the entire room with rich 360-degree audio. It works effortlessly with your iPhone, hand-off music just by bringing your phone close to the speaker. You can place multiple HomePod Mini speakers around the house for a connected sound system. It is also an intelligent assistant that helps you manage your smart home.",
+      "specs": {
+        "size": "3.3 inches",
+        "audio": "360-degree",
+        "colors": "5 colors"
+      }
+    },
+    {
+      "id": 6,
+      "name": "AirPods Pro (2nd Gen)",
+      "tagline": "Adaptive Audio.",
+      "price": 249.0,
+      "category": "Audio",
+      "imageUrl": "assets/images/airpodspro2.jpg",
+      "description": "Up to 2x more Active Noise Cancellation, Adaptive Audio that tailors noise control to your environment, and Personalized Spatial Audio for an immersive listening experience.",
+      "specs": {
+        "size": "In-ear",
+        "audio": "Spatial Audio",
+        "colors": "1 color"
+      }
+    },
+    {
+      "id": 7,
+      "name": "AirPods Max",
+      "tagline": "Sound focused.",
+      "price": 549.0,
+      "category": "Audio",
+      "imageUrl": "assets/images/airpodsmax.jpg",
+      "description": "High-fidelity audio meets the effortless magic of AirPods. A custom acoustic design, Active Noise Cancellation, and Transparency mode for a breakthrough listening experience.",
+      "specs": {
+        "size": "Over-ear",
+        "audio": "Spatial Audio",
+        "colors": "5 colors"
+      }
+    }
+  ]
+}
